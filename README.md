@@ -4,6 +4,8 @@
 ### Na początku spróbuj samodzielnie wyszukać w dostępnych źródłach jak zrealizować zadanie. Dopiero gdy nie uda Ci się tego zrobić, skorzystaj z podpowiedzi
 ### Nie krępuj się i pytaj opiekunów warsztatów o dowolną pomoc i wyjaśnienie
 
+[Prezentacja](https://docs.google.com/presentation/d/1uJJEMLcEgD9fE_75S5WrPqPw8C8kLAArwTBDkRpbfNs/edit?usp=sharing) 
+
 ## Setup
 
 Sklonuj repozytorium na swój komputer
